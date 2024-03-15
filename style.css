@@ -1,0 +1,61 @@
+body{
+    background: url("https://www.pixelstalk.net/wp-content/uploads/2016/05/Cartoon-HD-Wallpapers-High-Quality-620x388.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+h1{
+    color: rgb(255, 255, 255);
+    background: rgb(0, 0, 0);
+    width: 600px;
+    text-align: center;
+    margin: auto;
+}
+
+
+.name{
+    display: flex;
+    justify-content: space-around;
+    background: rgb(102, 125, 92);
+    width: 1200px;
+    margin: auto;
+    margin-top: 30px;
+
+}
+
+
+h3{
+    color: white;
+    font-size: xx-large;
+    
+}
+
+
+.t{
+    display: flex;
+    justify-content: space-evenly;
+    background: rgba(0, 0, 0, 0.5);
+    margin-top: 20px;
+    border-radius: 50px 0 50px 0;
+}
+
+
+img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50px 0 50px 0;
+    padding: 10px;
+    background-color: black;
+    background-size: auto ;
+    opacity: 1;
+}
+img.hover{
+    border: solid black;
+    opacity: 1;
+   ;
+}
+
+
+
+																	
